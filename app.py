@@ -12,14 +12,11 @@ from langchain.callbacks.streamlit import StreamlitCallbackHandler
 st.set_page_config(page_title="Simple Math and Aptitide Problem Solver ",page_icon="🧮")
 st.title("MAD MATH PROBLEM SOLVER (using Google Gemma 2)")
 
-#groq_api_key=st.sidebar.text_input(label="Groq API Key",type="password")
+
 
 groq_api_key='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'
 
 
-#if not groq_api_key:
-    #st.info("Please add your Groq APPI key to continue")
-    #st.stop()
 
 llm=ChatGroq(model="Gemma2-9b-It",groq_api_key=groq_api_key)
 
