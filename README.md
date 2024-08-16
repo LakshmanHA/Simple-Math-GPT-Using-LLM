@@ -15,3 +15,6 @@ Google Gemma 8B LLM (language model)
 Groq (AI computing platform)
 
 Python (programming language)
+
+# How the web page looks
+![Screenshot (87)](https://github.com/user-attachments/assets/9b5c8f51-6ad8-45d9-b9d6-5c97f03d953c)
