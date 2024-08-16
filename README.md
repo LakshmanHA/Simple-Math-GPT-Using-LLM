@@ -21,5 +21,6 @@ Python (programming language)
 
 # How output will look
 It will gives the answer along with the step by step Explanation
+
 ![Screenshot (88)](https://github.com/user-attachments/assets/619c3370-ef69-4525-b15b-e86e6a93d754)
 
