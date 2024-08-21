@@ -1,5 +1,8 @@
 # Simple-Math-GPT-Using-LLM
 
+# Try It now
+https://simple-math-gpt-using-llm-8okfmzppvoymrsxbgiqbrh.streamlit.app/
+
 # Description:
 This repository contains a web application built using Streamlit that leverages the power of Google's Gemma 8B Large Language Model (LLM) and Groq's AI computing platform. The app enables users to interact with the Gemma 8B model, exploring its capabilities and generating text based on user input.
 # Key Features:
