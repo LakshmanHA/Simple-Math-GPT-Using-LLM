@@ -14,7 +14,7 @@ st.title("MAD MATH PROBLEM SOLVER (using Google Gemma 2)")
 
 
 
-groq_api_key='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'
+groq_api_key='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'
 
 
 
